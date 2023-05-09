@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 title: "Vue.js keyup issue"
 ---
 
