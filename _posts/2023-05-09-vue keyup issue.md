@@ -6,9 +6,9 @@ title: "Vue.js keyup issue"
 # Vue.js keyup.enter 중복 이슈
 
 ## @keyup
-키보드를 누를 시에 대한 이벤트를 주는 경우가 있을겁니다.
+키보드를 누를 시에 대한 이벤트를 주는 경우가 있습니다.
 
-간단한 input으로 예를 들어볼게요.
+간단한 input으로 예를 들어보겠습니다.
 
 ```vue
 <template>
